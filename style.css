@@ -1,0 +1,137 @@
+*{
+    margin:0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
+.container{
+    width: 960px;
+    margin: 20px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    border-right: 1px solid beige;
+    border-left: 1px solid beige;
+    background-color: #8b8b84;
+    box-shadow: 0px 0 10px 2px #ddd;
+}
+.header_left{
+    float: left;
+    padding: 10px;
+    width: 400px ;
+    
+}
+p{
+    text-align: justify;
+}
+img{
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.header_left h2{
+    margin-top: 20px;
+    color: orange;
+}
+.header_right{
+    float: right;
+    width: 300px;
+    padding: 10px;
+
+   
+}
+.header_right h2{
+    color: orange;
+}
+.header_right h4{
+    color: orangered;
+}
+.section_1{
+    padding: 10px;
+}
+.section_left1{
+    padding: 10px;
+    width: 300px;
+    float: left;
+}
+.section_left1, .section_left2, .section_left3 , h2{
+    color: #fff;
+}
+.section_right2 , .section_right3, h3{
+    color:#00000085;
+    margin-bottom: 7px;
+}
+.section_right1{
+    float: right;
+    padding: 10px;
+    width: 492px;
+    color:#fff;
+}
+.section_left2{
+    padding: 10px;
+    width: 300px;
+    float: left;
+}
+.section_right2{
+    float: right;
+    padding: 10px;
+    width: 500px;
+    color:#fff;
+}
+.section_left3{
+    padding: 10px;
+    width: 300px;
+    float: left;
+}
+.section_right3{
+    float: right;
+    padding: 10px;
+    width:500px;
+    color:#fff;
+}
+.footer{
+    padding: 10px;
+    text-align: center;
+    color:blue;
+    background-color: darkturquoise;
+    overflow: hidden;
+}
+.footer h2{
+    text-decoration: underline;
+    margin-bottom: 5px;
+    color: #fff;
+}
+.use{
+    width: 200px;
+    float: left;
+    
+}
+.use ul{
+    list-style: none;
+}
+.use ul li a{
+    text-decoration: none;
+    colo:#000;
+}
+.company{
+    float: left;
+    width:220px;
+    margin-right: 10px;
+}
+.company h4{
+    color:#000;
+}
+.social{
+    width: 270px;
+    float: left;
+    margin-right: 5px;
+}
+.address{
+    width: 200px;
+    float: left;
+}
+.divider{
+    border:2px solid #6b6b6a;
+}
+hr{
+	border:1px solid #6b6b6a;
+	
+}
